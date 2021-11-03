@@ -21,8 +21,7 @@ const merge = (nums1, m, nums2, n) => {
 };
 
 // Runtime: 72 ms
-// Memory Usage: 39.3 MB
-
+//Memory Usage: 39.3 MB
 const merge2 = (nums1, m, nums2, n) => {
     const arr3 = [];
     let i = 0
