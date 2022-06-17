@@ -11,8 +11,8 @@
 - Arrays. 🕓
 
   - 1. Intro 🟢
-  - 2. Inserting 🕓
-  - 3. Deliting 🕓
+  - 2. Inserting 🟢
+  - 3. Deliting 🟢
   - 4. Searching 🕓
   - 5. In-Place 🕓
   - 6. Conclusion 🕓
